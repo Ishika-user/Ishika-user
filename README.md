@@ -1,64 +1,38 @@
-<div align="center">
+## ISHIKA BHATTARAI
+`Data Migration & Quality Assurance`
 
 <br>
 
-# ISHIKA BHATTARAI
-
-**DATA MIGRATION / QUALITY ENGINEERING / AUTOMATION**
-
-*Clean data. Reliable systems. Measurable quality.*
+Data migration and quality assurance professional focused on Python automations, ETL workflows, and SQL Server environments. Builds validation and reconciliation logic that verifies data integrity across systems, backed by automated test coverage.
 
 <br>
 
-</div>
+### ▸ Focus Areas
 
----
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### PROFILE
-
-Data Migration and QA Intern working across data assessment, transformation, validation, reconciliation, and migration.
-
-Focused on building accurate and traceable processes that improve data quality and reduce manual work.
-
-</td>
-<td width="45%" valign="top">
-
-### CORE STACK
-
-`Python` `SQL Server` `Pandas`
-`Pytest` `OpenPyXL` `Git`
-`SQLAlchemy` `PyODBC` `Java`
-
-</td>
-</tr>
-</table>
-
----
-
-### CAPABILITIES
-
-`ETL Development`   `Data Migration`   `Quality Assurance`
-`Data Validation`   `Reconciliation`   `Excel Automation`
-`Automated Testing`   `SQL Development`   `Technical Documentation`
-
-### CURRENT DIRECTION
-
-Developing deeper capability in Python automation, advanced SQL, automated quality assurance, and reliable data-processing architecture.
-
----
-
-<div align="center">
-
-**GITHUB** — [Ishika-user](https://github.com/Ishika-user)
-**LINKEDIN** — [Connect](ADD_YOUR_LINKEDIN_URL)
+| | |
+|---|---|
+| `Data Migration` | `ETL` |
+| `Data Quality` | `Python Automation` |
+| `SQL Server` | `Validation & Reconciliation` |
+| `Automated Testing` | |
 
 <br>
 
-<sub>Accuracy is not a final check. It is part of the design.</sub>
+### ▸ Stack
 
-</div>
+| Layer | Tools |
+|---|---|
+| Languages | Python · SQL · Java |
+| Data | pandas · Excel · openpyxl |
+| Database | Microsoft SQL Server · SQLAlchemy · pyodbc |
+| Testing | pytest · reconciliation · automated validation |
+| Environment | Git · GitHub · VS Code · SSMS |
 
+<br>
+
+### ▸ Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ishika--user-1a1a2e?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Ishika-user)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/ishika-bhattarai-95a609376/)
+
+Based in Nepal
