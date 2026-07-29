@@ -1,16 +1,83 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ishika-user/Ishika-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ISHIKA BHATTARAI
 
-Here are some ideas to get you started:
+### `extract → transform → validate → migrate`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Migration · Quality Assurance · Python Automation**
+
+</div>
+
+---
+
+```sql
+SELECT role, focus, technologies
+FROM developer_profile
+WHERE username = 'Ishika-user';
+```
+
+| FIELD | VALUE |
+|---|---|
+| **Role** | Data Migration & QA Intern |
+| **Focus** | ETL, Data Quality and Automation |
+| **Languages** | Python, SQL and Java |
+| **Database** | Microsoft SQL Server |
+| **Testing** | Pytest and Data Reconciliation |
+| **Location** | Nepal |
+
+## Current Pipeline
+
+```mermaid
+flowchart LR
+    A["Raw Data"] --> B["Python ETL"]
+    B --> C["Validation"]
+    C --> D["QA Testing"]
+    D --> E["Migration Ready"]
+```
+
+## Selected Work
+
+### [`member-data-automation`](https://github.com/Ishika-user/member-data-automation)
+
+```text
+INPUT        38 synthetic records
+CLEANED      30 records
+REVIEW       6 records
+DUPLICATES   2 removed
+TESTS        54 passed
+QA STATUS    PASSED
+```
+
+A Python automation system for Excel extraction, data cleaning, duplicate handling, validation, reconciliation, QA reporting, and optional SQL Server loading.
+
+## Toolkit
+
+```text
+LANGUAGES    Python · SQL · Java
+DATA         Pandas · Excel · OpenPyXL
+DATABASE     SQL Server · SQLAlchemy · PyODBC
+TESTING      Pytest · Reconciliation · Validation
+TOOLS        Git · GitHub · VS Code · SSMS
+```
+
+## Current Focus
+
+```python
+current_focus = [
+    "Python automation",
+    "ETL development",
+    "Data migration",
+    "QA automation",
+    "SQL Server"
+]
+```
+
+---
+
+<div align="center">
+
+[`GitHub`](https://github.com/Ishika-user) · [`LinkedIn`](ADD_YOUR_LINKEDIN_LINK)
+
+<sub>Reliable data begins with reliable validation.</sub>
+
+</div>
